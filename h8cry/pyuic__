@@ -1,0 +1,3 @@
+#!/bin/sh
+pyuic5 mainWindow.ui > mainWindow_ui.py
+pyuic5 alarm.ui > alarm_ui.py
